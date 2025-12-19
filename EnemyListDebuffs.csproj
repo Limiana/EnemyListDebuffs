@@ -6,7 +6,7 @@
     <Authors>Felys,aers</Authors>
     <Company>-</Company>
     <Description>Dalamud plugin that shows debuffs on the Enemy List.</Description>
-    <PackageProjectUrl>https://github.com/Felys1998/EnemyListDebuffs</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Limiana/EnemyListDebuffs</PackageProjectUrl>
     <Platforms>x64</Platforms>
   </PropertyGroup>
 
